@@ -11,10 +11,7 @@ body {
 }
 
 .dove {
-    width: 200px;
-    height: 200px;
-    filter: blur(5px);
-    animation: fly 2s infinite;
+    animation: fly 2s infinite linear;
 }
 
 @keyframes fly {
