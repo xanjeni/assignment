@@ -25,3 +25,7 @@ body {
         transform: translateY(-50px);
     }
 }
+
+img {
+    filter:grayscale(100%);
+}
